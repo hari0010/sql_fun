@@ -1,0 +1,24 @@
+[submodule "platform"]
+	path = platform
+	url = https://github.com/OktaEdu/es-delivery-platform
+[submodule "oauth"]
+	path = oauth
+	url = https://github.com/OktaEdu/es-delivery-oauth-oidc
+[submodule "scim"]
+	path = scim
+	url = https://github.com/OktaEdu/es-delivery-scim
+[submodule "advanced_mastering"]
+	path = advanced_mastering
+	url = https://github.com/OktaEdu/es-delivery-advanced-mastering
+[submodule "inbound_federation"]
+	path = inbound_federation
+	url = https://github.com/OktaEdu/es-delivery-inbound-federation
+[submodule "oktane"]
+	path = oktane
+	url = https://github.com/OktaEdu/es-delivery-oktane
+[submodule "user_migration"]
+	path = user_migration
+	url = https://github.com/OktaEdu/es-delivery-user-migration.git
+[submodule "oidc"]
+	path = oidc
+	url = https://github.com/OktaEdu/es-delivery-oidc.git
